@@ -5,6 +5,7 @@
 # @Link    : http://example.org
 # @Version : $Id$
 
+
 from flask import Flask
 from config import DevConfig
 import wt_forms
